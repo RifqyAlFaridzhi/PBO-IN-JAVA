@@ -1,2 +1,2 @@
 WELCOME TO IN PBO JAVA
-disini terdapat beberapa oop/pbo yang ada di java :)
+disini terdapat beberapa oop/pbo yang saya pelajari di java, semoga membantu :)
